@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyansh-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="reyansh-yadav" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username= Shreyansh-Jaiswal alt=“Sheyansh-Jaiswal /></a> </p>
-<img align="right" alt="" width="400" src="[https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM]">
+<img align="right" alt="coding" width="400" src="[https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM]">
 
 
 
