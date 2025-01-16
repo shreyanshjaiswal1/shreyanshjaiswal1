@@ -1,16 +1,14 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Shreyansh Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyansh-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="reyansh-yadav" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username= Shreyansh-Jaiswal alt=“Sheyansh-Jaiswal /></a> </p>
-<img align="right" alt="coding" width="400" src="[https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM]">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username= Shreyansh-Jaiswal" alt="Shreyansh-Jaiswal" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM">
 
+- 🌱 I’m currently learning **Data Analytics and Data Science**
 
-
-- 🌱 I’m currently learning **Fullstack Web Development**
-
-- 💬 Ask me about **Html, CSS, Javascript**
+- 💬 Ask me about **Python, SQL, Data Visualization, Excel, Pandas, NumPy**
 
 - 📫 How to reach me **https://shreyanshjaiswal1.github.io/Portfolio-Website**
 
@@ -20,6 +18,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="tableau" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshjaiswal1&show_icons=true&locale=en&layout=compact" alt="shreyanshjaiswal1" /></p>
